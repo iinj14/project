@@ -1,4 +1,6 @@
+package com.example.project
 
+import UserInfo
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
